@@ -11,6 +11,13 @@ http://www.amazon.in/Exam-Ref-70-532-Developing-Microsoft/dp/8120351959
 ###[Nicholas Rogoff Blog - Exam Prep Sheet]
 (https://blog.nicholasrogoff.com/2017/01/25/my-microsoft-azure-certification-revision-sheets/)
 
+###[Chris Pietschmann explains how he passed 70-532]
+(http://pietschsoft.com/post/2015/06/06/How-I-passed-the-70-532-Developing-Microsoft-Azure-Solutions-certification-exam)
+
+##[The Azure Portal A to Z - by Bruno Terkely]
+(https://blogs.msdn.microsoft.com/brunoterkaly/2015/01/10/the-azure-portal-a-to-z/)
+
+
 
 ###[Cloud Platform & Infrastructure Path]
 (https://pbs.twimg.com/media/C3RVnViUEAAinZP.jpg:large)
@@ -26,3 +33,4 @@ http://www.cloudcomputingpatterns.org/
 
 ###[Pluralsight]
 (http://www.pluralsight.com)
+
