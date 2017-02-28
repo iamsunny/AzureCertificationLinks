@@ -34,3 +34,6 @@ http://www.cloudcomputingpatterns.org/
 ###[Pluralsight]
 (http://www.pluralsight.com)
 
+
+
+I will keep adding more related links here!
