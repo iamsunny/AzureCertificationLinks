@@ -28,8 +28,6 @@ http://www.amazon.in/Exam-Ref-70-532-Developing-Microsoft/dp/8120351959
 Cloud Computing Fundamentals:
 http://www.cloudcomputingpatterns.org/
 
-### [Microsoft Virtual Academy]
-(https://mva.microsoft.com)
 
 ### [Pluralsight]
 (http://www.pluralsight.com)
